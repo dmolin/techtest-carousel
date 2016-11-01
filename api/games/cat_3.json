@@ -1,0 +1,29 @@
+{
+	"header": {
+		"availableGames": 2,
+		"whatisthis": "Jackpots Games"
+	},
+
+	"query": {
+		"categoryId": "3",
+		"subcategoryId": "300"
+	},
+
+	"games":[
+	{
+		"id": 1,
+		"name": "Aztec's Treasure",
+		"subcategories": [300],
+		"jackpot":"12345600"
+	} ,
+	{
+		"id": 2,
+		"name": "Caesar's Empire",
+		"subcategories": [300],
+		"jackpot":"32165400"
+	}],
+	
+	"subcategories": [
+		{"id": 300, "name": "All"}
+	]
+}

@@ -1,0 +1,168 @@
+{
+	"header": {
+		"availableGames": 30, 
+		"page": 0
+	},
+
+	"query": {
+		"categoryId": "1",
+		"subcategoryId": "100"
+	},
+
+	"games":[
+	{
+		"id": 1,
+		"name": "Games #1",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 2,
+		"name": "Games #2",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 3,
+		"name": "Games #3",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 4,
+		"name": "Games #4",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 5,
+		"name": "Games #5",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 6,
+		"name": "Games #6",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 7,
+		"name": "Games #7",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 8,
+		"name": "Games #8",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 9,
+		"name": "Games #9",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 10,
+		"name": "Games #10",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 11,
+		"name": "Games #11",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 12,
+		"name": "Games #12",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 13,
+		"name": "Games #13",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 14,
+		"name": "Games #14",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 15,
+		"name": "Games #15",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 16,
+		"name": "Games #16",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 17,
+		"name": "Games #17",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 18,
+		"name": "Games #18",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 19,
+		"name": "Games #19",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 20,
+		"name": "Games #20",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 21,
+		"name": "Games #21",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 22,
+		"name": "Games #22",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 23,
+		"name": "Games #23",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 24,
+		"name": "Games #24",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 25,
+		"name": "Games #25",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 26,
+		"name": "Games #26",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 27,
+		"name": "Games #27",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 28,
+		"name": "Games #28",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 29,
+		"name": "Games #29",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 30,
+		"name": "Games #30",
+		"categories": [1,2]
+	} ],
+	
+	"subcategories": [
+		{"id": 100, "name": "All"},
+		{"id": 101, "name": "Classic Slots"}
+	]
+}	

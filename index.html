@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8" />
+<title>Testing huge lazy-loading Carousel</title>
+<link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+
+<div class='content'>
+	<div class='internal-wrapper' >
+		<div id="carousel">
+		</div>
+	</div>
+</div>
+
+
+<SCRIPT TYPE="text/javascript" src="scripts/jquery-1.6.2.min.js"></SCRIPT>
+<SCRIPT TYPE="text/javascript" src="scripts/tash-0.0.1.js"></SCRIPT>
+<script>
+	//tash.config.namespaceRoot = 'slots';
+	//tash.config.namespaceEventsRoot = 'slots.events';
+</script>
+<SCRIPT TYPE="text/javascript" src="scripts/carousel.js"></SCRIPT>
+<SCRIPT>
+	jQuery(document).ready( function() {
+		window.carousel = slots.module.GamesCarousel.create('#carousel');
+	} );
+</SCRIPT>
+</body>
+
+</html>

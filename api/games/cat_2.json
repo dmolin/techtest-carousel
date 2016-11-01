@@ -1,0 +1,54 @@
+{
+	"header": {
+		"availableGames": 7, 
+		"page": 0
+	},
+
+	"query": {
+		"categoryId": "2",
+		"subcategoryId": "200"
+	},
+
+	"games":[
+	{
+		"id": 1,
+		"name": "Games #1",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 2,
+		"name": "Games #2",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 3,
+		"name": "Games #3",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 4,
+		"name": "Games #4",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 5,
+		"name": "Games #5",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 6,
+		"name": "Games #6",
+		"categories": [1,2]
+	} ,
+	{
+		"id": 7,
+		"name": "Games #7",
+		"categories": [1,2]
+	}],
+	
+	"subcategories": [
+		{"id": 200, "name": "All"},
+		{"id": 201, "name": "New Games"},
+		{"id": 202, "name": "Featured"}
+	]
+}

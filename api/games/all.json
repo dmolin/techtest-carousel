@@ -1,0 +1,22 @@
+{
+	"header": {
+		"availableGames": 500, 
+		"page": 0,
+		"pagination": false
+	},
+
+	"query": {
+	},
+
+	"games":[
+		{
+			"id": 12001,
+			"name": "Witches and Wizards",
+			"categories": [1,2]
+		}
+	],
+	"categories": [
+		{"id": 1, "name": "Slots"},
+		{"id": 2, "name": "New" }
+	]
+}
